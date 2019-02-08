@@ -15,7 +15,6 @@ Once the survey is completed, an event page is generated.  All information the h
 _Frontend_
 - HTML + CSS
 - UI Kit Framework
-- 
 
 _Backend_
 - Node
@@ -29,6 +28,4 @@ _QA_
 
 
 
-Link to project: https://team-git-it.herokuapp.com/
-
-Project Presentation Slides: https://docs.google.com/presentation/d/1Q2IUBjpAJKZFhgypJS7noPzvZ7BoGrgVjCNHHGwFRa0/edit?usp=sharing 
+Deployed: https://team-git-it.herokuapp.com/
